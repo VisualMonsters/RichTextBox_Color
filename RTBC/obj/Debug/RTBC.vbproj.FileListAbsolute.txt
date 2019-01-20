@@ -1,0 +1,24 @@
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\bin\Debug\RTBC.exe.config
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\bin\Debug\RTBC.exe
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\bin\Debug\RTBC.pdb
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\bin\Debug\RTBC.xml
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.vbprojAssemblyReference.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.Form1.resources
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.Resources.resources
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.vbproj.GenerateResource.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.vbproj.CoreCompileInputs.cache
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.exe
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.xml
+C:\Users\chudzip1\AppData\Local\Temporary Projects\RTBC\obj\Debug\RTBC.pdb
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\bin\Debug\RTBC.exe.config
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\bin\Debug\RTBC.exe
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\bin\Debug\RTBC.pdb
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\bin\Debug\RTBC.xml
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.vbprojAssemblyReference.cache
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.Form1.resources
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.Resources.resources
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.vbproj.GenerateResource.cache
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.vbproj.CoreCompileInputs.cache
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.exe
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.xml
+C:\Users\chudzip1\Documents\priv\RTCB\RTBC\RichTextBox_Color\RTBC\obj\Debug\RTBC.pdb
